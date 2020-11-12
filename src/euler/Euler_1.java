@@ -11,16 +11,16 @@ package euler;
 public class Euler_1 {
 	
 	//returns true if input is a multiple of 3 and 5
-	public static boolean isMultiple(int input) {
+	private static boolean isMultiple(int input) {
 		if(input % 3 == 0 || input % 5 == 0) return true;
 		return false;
 	}
 	
-	public static int output() {
+	public static String output() {
 		int sum = 0;
 		for(int i = 0; i < 1000; i++) {
 			if(isMultiple(i)) sum += i;
 		}
-		return sum;
+		return String.valueOf(sum);
 	}
 }
