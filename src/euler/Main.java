@@ -24,7 +24,11 @@ public class Main {
 		//232792560
 		
 		//Problem 6: Sum square difference
-		System.out.println("Problem 6: " + Euler_6.output());
+		//System.out.println("Problem 6: " + Euler_6.output());
 		//25164150
+		
+		//Problem 7: 10001st prime
+		System.out.println("Problem 7: " + Euler_7.output());
+		//104743
 	}
 }
