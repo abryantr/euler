@@ -16,7 +16,11 @@ public class Main {
 		//6857
 		
 		//Problem 4: Largest palindrome product
-		System.out.println("Problem 4: " + Euler_4.output());
+		//System.out.println("Problem 4: " + Euler_4.output());
 		//906609
+		
+		//Problem 5: Smallest multiple
+		System.out.println("Problem 5: " + Euler_5.output());
+		//232792560
 	}
 }
