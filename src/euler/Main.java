@@ -28,7 +28,11 @@ public class Main {
 		//25164150
 		
 		//Problem 7: 10001st prime
-		System.out.println("Problem 7: " + Euler_7.output());
+		//System.out.println("Problem 7: " + Euler_7.output());
 		//104743
+		
+		//Problem 8: Largest product in a series
+		System.out.println("Problem 8: " + Euler_8.output());
+		//23514624000
 	}
 }
