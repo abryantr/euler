@@ -20,7 +20,11 @@ public class Main {
 		//906609
 		
 		//Problem 5: Smallest multiple
-		System.out.println("Problem 5: " + Euler_5.output());
+		//System.out.println("Problem 5: " + Euler_5.output());
 		//232792560
+		
+		//Problem 6: Sum square difference
+		System.out.println("Problem 6: " + Euler_6.output());
+		//25164150
 	}
 }
