@@ -19,12 +19,13 @@ public class Euler_7 {
 	public static String output() {
 		int lastPrime = 0;
 		int checking = 2;
+		int iterator = 0;
 		
-		for(int i = 0; i < 10001; i++) {
-			while(!isPrime(checking)) {
-				checking++;
+		while(iterator < 10001) {
+			if(isPrime(checking)) {
+				lastPrime = checking;
+				iterator++;
 			}
-			lastPrime = checking;
 			checking++;
 		}
 		
