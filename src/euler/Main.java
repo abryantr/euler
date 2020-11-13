@@ -32,7 +32,11 @@ public class Main {
 		//104743
 		
 		//Problem 8: Largest product in a series
-		System.out.println("Problem 8: " + Euler_8.output());
+		//System.out.println("Problem 8: " + Euler_8.output());
 		//23514624000
+		
+		//Problem 9: Special Pythagorean triplet
+		System.out.println("Problem 9: " + Euler_9.output());
+		//31875000
 	}
 }
