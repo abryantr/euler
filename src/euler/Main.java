@@ -36,7 +36,11 @@ public class Main {
 		//23514624000
 		
 		//Problem 9: Special Pythagorean triplet
-		System.out.println("Problem 9: " + Euler_9.output());
+		//System.out.println("Problem 9: " + Euler_9.output());
 		//31875000
+		
+		//Problem 10: Summation of primes
+		System.out.println("Problem 10: " + Euler_10.output());
+		//142913828922
 	}
 }
