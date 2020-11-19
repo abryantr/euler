@@ -44,7 +44,11 @@ public class Main {
 		//142913828922
 		
 		//Problem 11: Largest product in a grid
-		System.out.println("Problem 11: " + Euler_11.output());
+		//System.out.println("Problem 11: " + Euler_11.output());
 		//70600674
+		
+		//Problem 12: Highly divisible triangular numbers
+		System.out.println("Problem 12: " + Euler_12.output());
+		//
 	}
 }
