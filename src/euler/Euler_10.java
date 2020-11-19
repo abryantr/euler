@@ -12,6 +12,7 @@ import java.util.ArrayList;
 
 public class Euler_10 {
 	
+	@SuppressWarnings("deprecation")
 	public static String output() {
 		
 		//the sieve

@@ -40,7 +40,11 @@ public class Main {
 		//31875000
 		
 		//Problem 10: Summation of primes
-		System.out.println("Problem 10: " + Euler_10.output());
+		//System.out.println("Problem 10: " + Euler_10.output());
 		//142913828922
+		
+		//Problem 11: Largest product in a grid
+		System.out.println("Problem 11: " + Euler_11.output());
+		//70600674
 	}
 }
