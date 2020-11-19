@@ -48,7 +48,11 @@ public class Main {
 		//70600674
 		
 		//Problem 12: Highly divisible triangular numbers
-		System.out.println("Problem 12: " + Euler_12.output());
-		//
+		//System.out.println("Problem 12: " + Euler_12.output());
+		//76576500
+		
+		//Problem 13: Large sum
+		System.out.println("Problem 13: " + Euler_13.output());
+		//5537376230
 	}
 }
