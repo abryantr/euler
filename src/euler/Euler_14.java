@@ -34,7 +34,7 @@ public class Euler_14 {
 			long temp = sequence_start;
 			long curr_length = 0;
 			
-			System.out.println("Checking " + sequence_start);
+			//System.out.println("Checking " + sequence_start);
 			
 			while(temp != 1) {
 				if(isEven(temp)) {
