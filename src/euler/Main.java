@@ -52,7 +52,11 @@ public class Main {
 		//76576500
 		
 		//Problem 13: Large sum
-		System.out.println("Problem 13: " + Euler_13.output());
+		//System.out.println("Problem 13: " + Euler_13.output());
 		//5537376230
+		
+		//Problem 14: Longest Collatz sequence
+		System.out.println("Problem 14: " + Euler_14.output());
+		//837799
 	}
 }
